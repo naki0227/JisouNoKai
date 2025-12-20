@@ -72,12 +72,12 @@
 ---
 
 ## 技術スタック（Tech Stack）
-*   **Engine:** Unity（2D）
-*   **Language:** C#
+*   **Engine:** React + Vite (HTML5 Canvas / WebGL)
+*   **Language:** TypeScript
 *   **AI支援開発:** ANTIGRAVITY
 *   **LLM:** Gemini
 *   **画像素材:** Nono Banana Pro
-*   **データ管理:** ScriptableObject中心
+*   **データ管理:** JSON / TypeScript types
 
 ---
 

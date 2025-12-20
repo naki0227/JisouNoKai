@@ -6,8 +6,8 @@
 </p>
 
 ![Status](https://img.shields.io/badge/status-in%20development-orange)
-![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android-black)
-![Engine](https://img.shields.io/badge/engine-Unity-black)
+![Platform](https://img.shields.io/badge/platform-Web%20%7C%20Mobile-blue)
+![Stack](https://img.shields.io/badge/stack-React%20%7C%20Vite%20%7C%20TypeScript-blue)
 
 ---
 
@@ -63,12 +63,12 @@
 
 | Category | Technology | Description |
 | :--- | :--- | :--- |
-| **Engine** | **Unity (2D)** | Cross-platform game engine |
-| **Language** | **C#** | Game logic scripting |
+| **Engine** | **React + Vite** | HTML5 Canvas / WebGL Game |
+| **Language** | **TypeScript** | Type-safe game logic |
 | **AI Support** | **Gemini / Antigravity** | Development assistance & data generation |
-| **Data** | **ScriptableObject** | Kanji, Enemy, and Stage data management |
+| **Data** | **JSON / Types** | Flexible data management |
 | **Assets** | **Nono Banana Pro** | Pixel art style integration |
-| **Platform** | **iOS / Android** | Mobile first design |
+| **Platform** | **Web (PWA) / Mobile** | Cross-platform accessible |
 
 ---
 
