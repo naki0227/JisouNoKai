@@ -89,7 +89,7 @@
 
 ## 👨‍💻 開発者 (Developer)
 **Enludus**
-Contact: <https://enludus.vercel.app>
+Contact: <https://enludus.com>
 
 <p align="center"> 
     © 2025 Kana: ZISOHKAI Project. All rights reserved. 
